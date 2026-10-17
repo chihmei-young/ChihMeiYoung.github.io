@@ -15,7 +15,6 @@ Then open `http://localhost:8000` in your browser. Stop the server with Ctrl+C.
 ## Customize
 
 - Edit biography, research, projects, education, and contact details in `index.html`.
-- Replace `assets/chih-mei-young-portrait.jpg` to update the About Me photo. If its dimensions change, update the image width and height attributes in `index.html`.
 - Replace the hero SVG and project illustration blocks with your own images. The project notes are intentionally labeled placeholders; expand them with results and links.
 - Change the color and font variables at the top of `style.css`.
 - Replace `assets/chih-mei-young-resume.pdf` when your resume changes. The included PDF is the supplied resume, including its contact and reference details; review it before publishing.
